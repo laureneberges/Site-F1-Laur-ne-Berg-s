@@ -1,0 +1,13 @@
+.btn-blue {
+	background-color: pink;
+	color : hotpink;
+	font-weight: bold;
+	border-radius: 5px;
+	padding: 8px 16px;
+	border : 1px solid hotpink;
+	transition : 1s;
+	display: block;
+	width:32%;
+	margin: 16px auto;
+	text-align: center;
+}

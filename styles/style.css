@@ -1,0 +1,12 @@
+@import "banner.css";
+@import "buttons.css";
+@import "footer.css";
+@import "cards.css";
+
+body{
+	margin: 0;
+	background-color: lightpink;
+}
+a{
+	text-decoration: none;
+}
